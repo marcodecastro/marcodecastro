@@ -17,6 +17,6 @@
 
 
 
-![Snake animation](https://github.com/marcodecastro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcodecastro/marcodecastro/blob/output/github-contribution-grid-snake.svg)
   
   
